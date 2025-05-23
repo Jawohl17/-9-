@@ -1,6 +1,7 @@
+### Виконав самостійно Шевченко Артем РПЗ-23А
 # Lab Report №9
-Topic: “User and Group Management & System Security in Linux”
 
+### Topic: “User and Group Management & System Security in Linux”
 ### Objective:
 ### The aim of this session was to gain practical experience with the Bash shell and to perform essential user and group management operations. The tasks also introduced core security principles associated with user access and permissions in Linux.
 
